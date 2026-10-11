@@ -45,6 +45,7 @@ Proses pengolahan data mentah (`1.002 records`) dilakukan menggunakan **Python (
 
 ## 📄 Project Presentation
 - 📑 [Unduh / Lihat Presentation Deck (PPTX)](Final_Project_Marketing_Channel_Analysis%20-%20Fauzan%20Falah%20Rabbani.pptx)
+- 📑 [Unduh / Lihat Power BI, Google Collab, dan Excel](https://drive.google.com/drive/folders/1L2NsKAZH7NIPJDr9xP4wQU0qox-IvwDI?hl=ID)
 
 ## 🚀 Repository Structure
 ```text
