@@ -55,3 +55,5 @@ Proses pengolahan data mentah (`1.002 records`) dilakukan menggunakan **Python (
 ├── presentation/
 │   └── Final_Project_Deck.pdf # Professional Business Presentation
 └── README.md
+
+📄 [Unduh / Lihat Presentation Deck (PDF/PPTX)](./Final_Project_Marketing_Channel_Analysis%20-%20Fauzan%20Falah%20Rabbani_2\.pptx)
