@@ -44,7 +44,7 @@ Proses pengolahan data mentah (`1.002 records`) dilakukan menggunakan **Python (
 ---
 
 ## 📄 Project Presentation
-- 📑 [Unduh / Lihat Presentation Deck (PPTX)](Final_Project_Marketing_Channel_Analysis%20-%20Fauzan%20Falah%20Rabbani_2.pptx)
+- 📑 [Unduh / Lihat Presentation Deck (PPTX)](Final_Project_Marketing_Channel_Analysis%20-%20Fauzan%20Falah%20Rabbani.pptx)
 
 ## 🚀 Repository Structure
 ```text
