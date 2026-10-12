@@ -5,6 +5,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 👨‍💻 About Me
+* **Name:** Fauzan Falah Rabbani
+* **Background:** S1 Hukum Universitas Pancasila (2014–2018) | Mantan Legal & Compliance Staff (4+ tahun) yang kini bertransisi menjadi **Data Analyst**.
+* **Core Skills:** Python, Pandas, SQL, Power BI, Exploratory Data Analysis (EDA).
+
 ## 📌 Executive Summary
 Proyek ini menganalisis performa kampanye media sosial **NusaDigital Media** sepanjang tahun 2025 (1.000 record data dari 5 platform utama: Instagram, Facebook, TikTok, X/Twitter, dan YouTube). Analisis berfokus pada evaluasi efisiensi alokasi sumber daya, mengurai volatilitas produksi bulanan, dan memberikan rekomendasi berbasis data untuk optimasi saluran pemasaran.
 
